@@ -1,0 +1,10 @@
+.category {
+  margin-bottom: 40px;
+}
+
+.row {
+  display: flex;
+  gap: 16px;
+  overflow-x: auto;
+  padding-bottom: 10px;
+}
