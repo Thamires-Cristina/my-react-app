@@ -1,3 +1,6 @@
 .container {
-  padding: 40px;
+  color: black;
+ background-color: #ffffff;
+  width: 100%;
+  padding: 40px 0;
 }

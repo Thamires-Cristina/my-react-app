@@ -1,8 +1,28 @@
 .header {
-  background-color: black;
-  color: white;
-  text-align: center;
-  padding: 20px 0;
-  font-family: "Poppins", sans-serif;
-  font-size: 1.2rem;
+  background-color: #e4efff;
+  padding: 10px 0;
+}
+
+.inner {
+  width: 90%;
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.logo {
+  height: 150px;
+}
+
+.nav{
+  font-family: "Comic Sans", cursive;
+  display: flex;
+  gap: 50px;
+  list-style: none;
+  color: #004aad;
+  text-decoration:solid;
+  font-weight: 500;
+  transition: 0.3s;
+  color: #f44336;
 }

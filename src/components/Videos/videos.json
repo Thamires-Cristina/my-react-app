@@ -1,145 +1,183 @@
 [
   {
-    "id": "3tmd-ClpJxA",
-    "title": "Cena de Comédia - Engraçada",
-    "url": "https://www.youtube.com/watch?v=3tmd-ClpJxA",
-    "cover": "https://img.youtube.com/vi/3tmd-ClpJxA/hqdefault.jpg",
+    "id": "3OpnYuGNJv8",
+    "title": "Invocação do Mal 2",
+    "url": "https://www.youtube.com/watch?v=3OpnYuGNJv8",
+    "cover": "https://img.youtube.com/vi/3OpnYuGNJv8/hqdefault.jpg",
+    "category": "Terror"
+  },
+  {
+    "id": "jFBGUT1sV40",
+    "title": "A Freira",
+    "url": "https://www.youtube.com/watch?v=jFBGUT1sV40",
+    "cover": "https://img.youtube.com/vi/jFBGUT1sV40/hqdefault.jpg",
+    "category": "Terror"
+  },
+  {
+    "id": "NY8zGmqxFvM",
+    "title": "Invocação do Mal 4",
+    "url": "https://www.youtube.com/watch?v=NY8zGmqxFvM",
+    "cover": "https://img.youtube.com/vi/NY8zGmqxFvM/hqdefault.jpg",
+    "category": "Terror"
+  },
+  {
+    "id": "au-AjWMzUVI",
+    "title": "Anabelle",
+    "url": "https://www.youtube.com/watch?v=au-AjWMzUVI",
+    "cover": "https://img.youtube.com/vi/au-AjWMzUVI/hqdefault.jpg",
+    "category": "Terror"
+  },
+  {
+    "id": "dD264ZjfKlk",
+    "title": "It: A Coisa",
+    "url": "https://www.youtube.com/watch?v=dD264ZjfKlk",
+    "cover": "https://img.youtube.com/vi/dD264ZjfKlk/hqdefault.jpg",
+    "category": "Terror"
+  },
+
+
+  {
+    "id": "RYCbTylgs08",
+    "title": "As Branquelas",
+    "url": "https://www.youtube.com/watch?v=RYCbTylgs08",
+    "cover": "https://img.youtube.com/vi/RYCbTylgs08/hqdefault.jpg",
     "category": "Comédia"
   },
   {
-    "id": "tAGnKpE4NCI",
-    "title": "Comédia Stand Up 2024",
-    "url": "https://www.youtube.com/watch?v=tAGnKpE4NCI",
-    "cover": "https://img.youtube.com/vi/tAGnKpE4NCI/hqdefault.jpg",
+    "id": "CM002",
+    "title": "Gente Grande",
+    "url": "https://www.youtube.com/watch?v=CM002",
+    "cover": "https://img.youtube.com/vi/CM002/hqdefault.jpg",
     "category": "Comédia"
   },
   {
-    "id": "2vjPBrBU-TM",
-    "title": "Melhores Momentos Engraçados",
-    "url": "https://www.youtube.com/watch?v=2vjPBrBU-TM",
-    "cover": "https://img.youtube.com/vi/2vjPBrBU-TM/hqdefault.jpg",
+    "id": "CM003",
+    "title": "Todo Mundo em Pânico",
+    "url": "https://www.youtube.com/watch?v=CM003",
+    "cover": "https://img.youtube.com/vi/CM003/hqdefault.jpg",
     "category": "Comédia"
   },
   {
-    "id": "6Dh-RL__uN4",
-    "title": "Vídeo de pegadinha",
-    "url": "https://www.youtube.com/watch?v=6Dh-RL__uN4",
-    "cover": "https://img.youtube.com/vi/6Dh-RL__uN4/hqdefault.jpg",
+    "id": "CM004",
+    "title": "Se Beber Não Case",
+    "url": "https://www.youtube.com/watch?v=CM004",
+    "cover": "https://img.youtube.com/vi/CM004/hqdefault.jpg",
     "category": "Comédia"
   },
   {
-    "id": "fLexgOxsZu0",
-    "title": "Compilado de falhas engraçadas",
-    "url": "https://www.youtube.com/watch?v=fLexgOxsZu0",
-    "cover": "https://img.youtube.com/vi/fLexgOxsZu0/hqdefault.jpg",
+    "id": "CM005",
+    "title": "Minha Mãe é uma Peça",
+    "url": "https://www.youtube.com/watch?v=CM005",
+    "cover": "https://img.youtube.com/vi/CM005/hqdefault.jpg",
     "category": "Comédia"
   },
 
   {
-    "id": "sOnqjkJTMaA",
-    "title": "Trailer de Terror",
-    "url": "https://www.youtube.com/watch?v=sOnqjkJTMaA",
-    "cover": "https://img.youtube.com/vi/sOnqjkJTMaA/hqdefault.jpg",
-    "category": "Terror"
+    "id": "AC001",
+    "title": "John Wick 4",
+    "url": "https://www.youtube.com/watch?v=AC001",
+    "cover": "https://img.youtube.com/vi/AC001/hqdefault.jpg",
+    "category": "Ação"
   },
   {
-    "id": "Iwmo2EZ4w6I",
-    "title": "Sobrenatural",
-    "url": "https://www.youtube.com/watch?v=Iwmo2EZ4w6I",
-    "cover": "https://img.youtube.com/vi/Iwmo2EZ4w6I/hqdefault.jpg",
-    "category": "Terror"
+    "id": "AC002",
+    "title": "Missão Impossível",
+    "url": "https://www.youtube.com/watch?v=AC002",
+    "cover": "https://img.youtube.com/vi/AC002/hqdefault.jpg",
+    "category": "Ação"
   },
   {
-    "id": "exCOxFpeiTk",
-    "title": "Análise de filme de terror",
-    "url": "https://www.youtube.com/watch?v=exCOxFpeiTk",
-    "cover": "https://img.youtube.com/vi/exCOxFpeiTk/hqdefault.jpg",
-    "category": "Terror"
+    "id": "AC003",
+    "title": "Vingadores: Ultimato",
+    "url": "https://www.youtube.com/watch?v=AC003",
+    "cover": "https://img.youtube.com/vi/AC003/hqdefault.jpg",
+    "category": "Ação"
   },
   {
-    "id": "uN_DYtj0kpA",
-    "title": "Palhaço Assassino",
-    "url": "https://www.youtube.com/watch?v=uN_DYtj0kpA",
-    "cover": "https://img.youtube.com/vi/uN_DYtj0kpA/hqdefault.jpg",
-    "category": "Terror"
+    "id": "AC004",
+    "title": "Mad Max: Estrada da Fúria",
+    "url": "https://www.youtube.com/watch?v=AC004",
+    "cover": "https://img.youtube.com/vi/AC004/hqdefault.jpg",
+    "category": "Ação"
   },
   {
-    "id": "YbJOTdZBX1g",
-    "title": "Cena assustadora clássica",
-    "url": "https://www.youtube.com/watch?v=YbJOTdZBX1g",
-    "cover": "https://img.youtube.com/vi/YbJOTdZBX1g/hqdefault.jpg",
-    "category": "Terror"
+    "id": "AC005",
+    "title": "Batman: O Cavaleiro das Trevas",
+    "url": "https://www.youtube.com/watch?v=AC005",
+    "cover": "https://img.youtube.com/vi/AC005/hqdefault.jpg",
+    "category": "Ação"
+  },
+
+
+  {
+    "id": "RM001",
+    "title": "Como Eu Era Antes de Você",
+    "url": "https://www.youtube.com/watch?v=RM001",
+    "cover": "https://img.youtube.com/vi/RM001/hqdefault.jpg",
+    "category": "Romance"
+  },
+  {
+    "id": "RM002",
+    "title": "A Culpa é das Estrelas",
+    "url": "https://www.youtube.com/watch?v=RM002",
+    "cover": "https://img.youtube.com/vi/RM002/hqdefault.jpg",
+    "category": "Romance"
+  },
+  {
+    "id": "RM003",
+    "title": "Querido John",
+    "url": "https://www.youtube.com/watch?v=RM003",
+    "cover": "https://img.youtube.com/vi/RM003/hqdefault.jpg",
+    "category": "Romance"
+  },
+  {
+    "id": "RM004",
+    "title": "Diário de uma Paixão",
+    "url": "https://www.youtube.com/watch?v=RM004",
+    "cover": "https://img.youtube.com/vi/RM004/hqdefault.jpg",
+    "category": "Romance"
+  },
+  {
+    "id": "RM005",
+    "title": "Simplesmente Acontece",
+    "url": "https://www.youtube.com/watch?v=RM005",
+    "cover": "https://img.youtube.com/vi/RM005/hqdefault.jpg",
+    "category": "Romance"
   },
 
   {
-    "id": "kXYiU_JCYtU",
-    "title": "Linkin Park - Numb",
-    "url": "https://www.youtube.com/watch?v=kXYiU_JCYtU",
-    "cover": "https://img.youtube.com/vi/kXYiU_JCYtU/hqdefault.jpg",
-    "category": "Música"
+    "id": "AV001",
+    "title": "Jurassic Park",
+    "url": "https://www.youtube.com/watch?v=AV001",
+    "cover": "https://img.youtube.com/vi/AV001/hqdefault.jpg",
+    "category": "Aventura"
   },
   {
-    "id": "hTWKbfoikeg",
-    "title": "Nirvana - Smells Like Teen Spirit",
-    "url": "https://www.youtube.com/watch?v=hTWKbfoikeg",
-    "cover": "https://img.youtube.com/vi/hTWKbfoikeg/hqdefault.jpg",
-    "category": "Música"
+    "id": "AV002",
+    "title": "Jumanji: Bem-Vindo à Selva",
+    "url": "https://www.youtube.com/watch?v=AV002",
+    "cover": "https://img.youtube.com/vi/AV002/hqdefault.jpg",
+    "category": "Aventura"
   },
   {
-    "id": "JGwWNGJdvx8",
-    "title": "Ed Sheeran - Shape of You",
-    "url": "https://www.youtube.com/watch?v=JGwWNGJdvx8",
-    "cover": "https://img.youtube.com/vi/JGwWNGJdvx8/hqdefault.jpg",
-    "category": "Música"
+    "id": "AV003",
+    "title": "Piratas do Caribe",
+    "url": "https://www.youtube.com/watch?v=AV003",
+    "cover": "https://img.youtube.com/vi/AV003/hqdefault.jpg",
+    "category": "Aventura"
   },
   {
-    "id": "pXRviuL6vMY",
-    "title": "Twenty One Pilots - Stressed Out",
-    "url": "https://www.youtube.com/watch?v=pXRviuL6vMY",
-    "cover": "https://img.youtube.com/vi/pXRviuL6vMY/hqdefault.jpg",
-    "category": "Música"
+    "id": "AV004",
+    "title": "A Múmia",
+    "url": "https://www.youtube.com/watch?v=AV004",
+    "cover": "https://img.youtube.com/vi/AV004/hqdefault.jpg",
+    "category": "Aventura"
   },
   {
-    "id": "ktvTqknDobU",
-    "title": "Imagine Dragons - Radioactive",
-    "url": "https://www.youtube.com/watch?v=ktvTqknDobU",
-    "cover": "https://img.youtube.com/vi/ktvTqknDobU/hqdefault.jpg",
-    "category": "Música"
-  },
-
-  {
-    "id": "sx3Yiu0Y2as",
-    "title": "Podcast de tecnologia",
-    "url": "https://www.youtube.com/watch?v=sx3Yiu0Y2as",
-    "cover": "https://img.youtube.com/vi/sx3Yiu0Y2as/hqdefault.jpg",
-    "category": "Podcasts"
-  },
-  {
-    "id": "1Q8fG0TtQ44",
-    "title": "Entrevista motivacional",
-    "url": "https://www.youtube.com/watch?v=1Q8fG0TtQ44",
-    "cover": "https://img.youtube.com/vi/1Q8fG0TtQ44/hqdefault.jpg",
-    "category": "Podcasts"
-  },
-  {
-    "id": "ja7dMhXp2VY",
-    "title": "Podcast sobre carreira",
-    "url": "https://www.youtube.com/watch?v=ja7dMhXp2VY",
-    "cover": "https://img.youtube.com/vi/ja7dMhXp2VY/hqdefault.jpg",
-    "category": "Podcasts"
-  },
-  {
-    "id": "oHg5SJYRHA0",
-    "title": "Debate sobre criatividade",
-    "url": "https://www.youtube.com/watch?v=oHg5SJYRHA0",
-    "cover": "https://img.youtube.com/vi/oHg5SJYRHA0/hqdefault.jpg",
-    "category": "Podcasts"
-  },
-  {
-    "id": "DLzxrzFCyOs",
-    "title": "Conversa entrevista inspiradora",
-    "url": "https://www.youtube.com/watch?v=DLzxrzFCyOs",
-    "cover": "https://img.youtube.com/vi/DLzxrzFCyOs/hqdefault.jpg",
-    "category": "Podcasts"
+    "id": "AV005",
+    "title": "Indiana Jones",
+    "url": "https://www.youtube.com/watch?v=AV005",
+    "cover": "https://img.youtube.com/vi/AV005/hqdefault.jpg",
+    "category": "Aventura"
   }
 ]
