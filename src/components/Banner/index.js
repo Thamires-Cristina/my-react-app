@@ -8,7 +8,7 @@ export default function Banner() {
         <img src={movies} alt="Movies" className={styles.movies} />
 
         <div className={styles.slogan}>
-          “O próximo filme que vai mudar seu dia está a um clique.”
+          “O próximo filme que vai te tirar do tédio está a um clique.”
         </div>
       </div>
     </div>

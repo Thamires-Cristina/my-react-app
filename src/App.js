@@ -1,17 +1,9 @@
-import Header from "./components/Header";
-import Banner from "./components/Banner";
-import Container from "./components/Container";
-import Footer from "./components/Footer";
+import AppRoutes from "./router";
 import "./App.css";
 
 function App() {
   return (
-    <div>
-      <Header/>
-      <Banner/>
-      <Container/>
-      <Footer/>
-    </div>
+    <AppRoutes/>
   );
 }
 

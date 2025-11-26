@@ -1,0 +1,27 @@
+.container {
+  padding: 80px 120px;
+  min-height: 80vh;
+}
+
+.titulo {
+  font-size: 36px;
+  margin-bottom: 20px;
+  color: #1f1f7a;
+  font-weight: bold;
+}
+
+.descricao {
+  font-size: 18px;
+  margin-bottom: 20px;
+  line-height: 1.7;
+  max-width: 900px;
+  color: #333;
+}
+
+.frase {
+  margin-top: 40px;
+  font-size: 22px;
+  font-style: italic;
+  color: #1f1f7a;
+  font-weight: 600;
+}

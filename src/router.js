@@ -1,19 +1,28 @@
 import { BrowserRouter, Routes, Route } from "react-router-dom";
-import Inicio from "./pages/Inicio"
-import Filmes from "./pages/Filmes"
-import Sobre from "./pages/Sobre"
-import Contato from "./pages/Contato"
+import { useState } from "react";
+import Inicio from "../src/pages/Inicio/Inicio";
+import Sobre from "../src/pages/Sobre/Sobre";
+import Contato from "../src/pages/Contato/Contato";
+import Watch from "../src/pages/Watch/Watch";
 
 function AppRoutes() {
-    return (
-        <BrowserRouter>
-            <Routes>
-                <Route path="/" element={<Inicio/>} />
-                <Route path="/Filmes" element={<Filmes/>} />
-                <Route path="/Sobre" element={<Sobre />} />
-                <Route path="/Contato" element={<Contato />} />
-            </Routes>
-        </BrowserRouter>
-    );
+  const [search, setSearch] = useState("");
+
+  return (
+    <BrowserRouter>
+      <Routes>
+        <Route 
+          path="/" 
+          element={<Inicio search={search} setSearch={setSearch} />} 
+        />
+
+        <Route path="/Sobre" element={<Sobre />} />
+        <Route path="/Contato" element={<Contato />} />
+        <Route path="/watch/:id" element={<Watch />} />
+      </Routes>
+    </BrowserRouter>
+  );
 }
+
 export default AppRoutes;
+

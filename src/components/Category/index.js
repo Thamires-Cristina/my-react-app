@@ -1,5 +1,5 @@
-
 import styles from "./Category.module.css";
+import { Link } from "react-router-dom";
 
 export default function Category({ title, videos }) {
   return (
@@ -8,16 +8,25 @@ export default function Category({ title, videos }) {
 
       <div className={styles.videosGrid}>
         {videos.map((video) => (
-          <div className={styles.card} key={video.id}>
-            <img
-              className={styles.thumbnail}
-              src={video.cover}
-              alt={video.title}
-            />
-            <p className={styles.videoTitle}>{video.title}</p>
-          </div>
+          <VideoCard key={video.id} video={video} />
         ))}
       </div>
     </section>
+  );
+}
+
+function VideoCard({ video }) {
+  return (
+    <Link 
+      to={`/watch/${video.id}`} 
+      className={styles.card}
+    >
+      <img
+        className={styles.thumbnail}
+        src={video.cover}
+        alt={video.title}
+      />
+      <p className={styles.videoTitle}>{video.title}</p>
+    </Link>
   );
 }

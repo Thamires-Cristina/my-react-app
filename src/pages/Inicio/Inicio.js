@@ -4,15 +4,16 @@ import Container from "../../components/Container";
 import Footer from "../../components/Footer";
 import "./Inicio.module.css";
 
-function Inicio() {
+function Inicio({ search, setSearch }) {
   return (
     <div>
-      <Header/>
-      <Banner/>
-      <Container/>
-      <Footer/>
+      <Header search={search} setSearch={setSearch} />
+      <Banner />
+      <Container search={search} />
+      <Footer />
     </div>
   );
 }
 
 export default Inicio;
+

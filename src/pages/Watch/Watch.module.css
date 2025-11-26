@@ -1,0 +1,68 @@
+
+.container {
+  width: 100%;
+  min-height: 100vh;
+  padding: 30px 5%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background: #0a0a0a;
+  color: #fff;
+}
+
+
+.title {
+  font-size: 2rem;
+  font-weight: 700;
+  margin: 20px 0;
+  text-align: center;
+  color: #f7f7ff;;
+  text-shadow: 0 0 10px #f7f7ff(255, 0, 76, 0.4);
+}
+
+.backButton {
+  align-self: flex-start;
+  font-size: 1rem;
+  color: #1f1f7a;
+  text-decoration: none;
+  margin-bottom: 10px;
+  font-weight: 600;
+  background: #e4efff;
+  padding: 8px 14px;
+  border-radius: 10px;
+  transition: 0.3s ease;
+}
+
+.backButton:hover {
+  color: #fff;
+  background: #1f1f7a;;
+}
+
+.playerWrapper {
+  width: 100%;
+  max-width: 900px;
+  background: #111;
+  border-radius: 20px;
+  overflow: hidden;
+  padding: 16px;
+  box-shadow: 0 0 20px #1f1f7a(255, 0, 76, 0.2);
+}
+
+/* Player responsivo */
+.player {
+  width: 100%;
+  aspect-ratio: 16 / 9;
+  border: none;
+  border-radius: 15px;
+}
+
+/* 📱 Responsividade */
+@media (max-width: 600px) {
+  .title {
+    font-size: 1.6rem;
+  }
+
+  .playerWrapper {
+    padding: 8px;
+  }
+}
